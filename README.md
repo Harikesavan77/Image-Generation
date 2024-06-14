@@ -3,6 +3,8 @@
 
 To Generate images using GAN Encoder and Decoder from scratch.
 
+![Screenshot 2024-05-09 084129](https://github.com/Harikesavan77/Image-Generation/assets/120177130/b0a35941-755d-4e03-8468-32cb45946057)
+
 
 ## Acknowledgements
 
