@@ -1,7 +1,7 @@
 
 # Image Generation
 
-To Generate images using GAN Encoder and Decoder from scratch.
+To generate images using a GAN with an encoder-decoder, first design an encoder to compress images into latent vectors and a decoder to reconstruct images from these vectors. Use the decoder as the generator and create a discriminator to distinguish real from fake images. Train the discriminator to recognize real images and the generator to produce realistic images that fool the discriminator
 
 ![Screenshot 2024-05-09 084129](https://github.com/Harikesavan77/Image-Generation/assets/120177130/b0a35941-755d-4e03-8468-32cb45946057)
 
