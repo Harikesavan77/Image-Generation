@@ -42,7 +42,7 @@ Takes two numbers and returns the sum.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Harikesavan77](https://www.github.com/Harikesavan77)
 
 
 ## Installation
